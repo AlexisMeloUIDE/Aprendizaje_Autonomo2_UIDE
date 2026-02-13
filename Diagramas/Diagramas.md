@@ -1,1 +1,1 @@
-#En esta carpeta se subieron los diagramas del código
+En esta carpeta se subieron los diagramas del código
