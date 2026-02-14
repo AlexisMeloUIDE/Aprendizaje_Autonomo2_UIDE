@@ -16,3 +16,9 @@ El código fuente actual se encuentra en la carpeta /código_fuente
 
 ## Videos Explicativos
 Los videos explicativos se encuentran en la carpeta /videos_explicativos
+
+## Actualizaciones pendientes
+La funcionalidad del juego está casi completa, pero faltan agregar un par de funciones y detalles estéticos:
+- Desplegar el puntaje de cada jugador
+- Dibujar la linea divisora del campo
+- Agregar el menu de pausa y el boton de reiniciar el juego
