@@ -1,6 +1,6 @@
 ## Video 2
 
-En este video se explica el codigo y se realiza la demostracion de la funcionalidad del mismo. Tambén se mencionan los cambios pendientes
+En este video se explica el código y se realiza la demostración de la funcionalidad del mismo. También se mencionan los cambios pendientes.
 
 Link del video
 
