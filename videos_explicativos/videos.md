@@ -1,11 +1,11 @@
 # Videos explicativos
-## Video 1
+## Video 1 (Entorno Github)
 
 Link del video 
 
 https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/almelosa_uide_edu_ec/IQCmo7v_YLXgRKOoTMWcDl2XATsI8FnSEhTIFaVvcGJrjPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZhGfbm
 
-## Video 2
+## Video 2 (Explicación y demostración del código)
 
 Link del video
 
