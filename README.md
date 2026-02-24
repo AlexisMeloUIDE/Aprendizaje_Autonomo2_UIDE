@@ -22,3 +22,9 @@ La funcionalidad del juego está casi completa, pero faltan agregar un par de fu
 - Desplegar el puntaje de cada jugador
 - Dibujar la linea divisora del campo
 - Agregar el menu de pausa y el boton de reiniciar el juego
+
+- # Actualizaciones realizadas
+La funcionalidad del juego está completa, fueron agregadas las funciones y detalles estéticos faltantes:
+- Desplegar el puntaje de cada jugador
+- Dibujar la linea divisora del campo
+- Agregar el menu de pausa y el boton de reiniciar el juego
