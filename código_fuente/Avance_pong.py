@@ -1,4 +1,4 @@
-
+## El codigo final es el archivo pong_final.py
 #Librería gráfica para crear el juego Pong
 
 import turtle
@@ -63,3 +63,4 @@ while True:
     for paleta,x in ((l,-340),(r,340)):
         if abs(b.ycor()-paleta.ycor())<50 and x-10<b.xcor()<x+10:
             b.dx*=-1
+
